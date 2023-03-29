@@ -1,3 +1,3 @@
 # LED_ON
 
-![LED_ON](Spectacular Leelo-Bigery.png)
+![LED_ON](Spectacular_Leelo-Bigery.png)
